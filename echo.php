@@ -3,8 +3,8 @@
 <body>
 
 <?php
-echo "Hello World!";
-echo "Nice Job Professor!";
+echo "Hello World!\n";
+echo "Nice Job!";
 ?>
 
 </body>
